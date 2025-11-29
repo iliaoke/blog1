@@ -42,10 +42,10 @@ jobs:
             - name: Build
               run: hugo --minify --gc
 
-          - name: Deploy 🚀
-            uses: JamesIves/github-pages-deploy-action@dev
-            with:
+            - name: Deploy 🚀
+              uses: JamesIves/github-pages-deploy-action@dev
+              with:
                 branch: gh-pages
                 folder: 公共
-                 clean: true
-                  single-commit: true
+                clean: true
+                single-commit: true
