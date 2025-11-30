@@ -3,7 +3,7 @@ baseurl = "https://blog.liaoke.xyz"
 languageCode = "zh-cn"
 title = "廖轲的blog"
 buildFuture = true
-
+enableGitInfo = true
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "zh-cn"
@@ -20,7 +20,7 @@ pagerSize = 10
 
 [frontmatter]
   date = [':filename', ':default']
-  lastmod = ['lastmod', ':fileModTime']
+  lastmod = ['lastmod',':git', ':fileModTime']
   publishDate = [':filename', ':default']
   
 [params]
