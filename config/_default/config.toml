@@ -16,7 +16,7 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 [pagination]
-pagerSize = 3
+pagerSize = 5
 
 [frontmatter]
   date = [':filename', ':default']
