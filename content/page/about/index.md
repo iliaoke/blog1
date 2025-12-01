@@ -35,6 +35,7 @@ menu:
 
 1. 了解各种系统uefi引导流程，熟悉构建多系统（windows/linux/fydeos/android x86）引导
 2. 熟悉各系统各个领域的软件生态(用于生产或者技术类型的软件)
+3. 熟悉github/vercle/cloudflare.....等网站的运用
 
 ### 其他爱好
 
