@@ -30,3 +30,7 @@ menu:
 1. 熟练掌握root方案(magisk,kernelsu,apatch),并初步了解他们的技术实现原理与区别。
 2. Android kernel的编译与patch
 3. 初步掌握Android系统(Lineageos,crdroid,risingos......)的编译(但是出bug了不会修),32+1tb的运存储存规模有点不太够用了(现在内存储存涨价太多，目前不适合入手)
+
+### 其他爱好
+1.喜欢看网络小说，不喜欢看传统文学。
+2.喜欢打steam游戏和网络游戏(杂食性玩家)
