@@ -1,7 +1,7 @@
 ---
 title: "关于"
 type: "posts"
-#date: 2022-03-06
+date: 2025-12-01
 menu:
     main:
         weight: 2
