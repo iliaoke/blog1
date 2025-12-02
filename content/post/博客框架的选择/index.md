@@ -57,7 +57,7 @@ tags:
 ### [Hexo](https://hexo.io/)  
      node.js开发,教程很多，社区插件主题资源丰富，缺点是当文章数量>1k时，构建速度会显著减缓
 ### [Hugo](https://gohugo.io/)  
-     go语言开发,运行build效率很高,教程资源丰富,社区插件资源也很多，稍逊hexo,最大的优势是当文章数量很多时，构建静态网站的速度可以快其他框架几倍。
+     go语言开发,使用go template模板，学习门槛相对其他的来说高点。运行build效率很高,教程资源丰富,社区插件资源也很多，稍逊hexo,最大的优势是当文章数量很多时，构建静态网站的速度可以快其他框架几倍.
 ### [Jekyll](https://jekyllrb.com/)  
      资源插件相对较少,界面简洁直观,但有github官方支持,可以直接将存入仓库的md文件转换成网页
 ### [VitePress](https://vitepress.dev/)  
