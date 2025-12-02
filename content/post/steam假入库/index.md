@@ -27,7 +27,7 @@ tags:
 
  2. 通过解密清单将游戏完整下下来后,通过steamtool/GreenLuma hook注入自己的.dll文件,对steam原有的steamwork api进行劫持,便可以实现让游戏认为账号已经获取了该游戏的游玩权限。
 
- 于是乎，通过以上手段，便实现了一套完整的steam游戏假入库
+ 于是乎通过以上手段，便实现了一套完整的steam游戏假入库
 
  **在steam游戏破解游玩方面,主要有两种破解方法**
  ## 一是对steam客户端进行crak
@@ -39,10 +39,10 @@ tags:
    3. 系统重装后，steam假入库游戏入库数据会消失(要玩的时候重新入一下库就行了，问题不大)
 
 ### 典型代表:
-   1. [steamtool](https://www.steamtools.net) (闭源，国人大佬开发,功能强大)
-   2. [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?t=103709)(原版纯命令行,操作较难,闭源,外国论坛发布)
-   3. [GreenLuma_CN](https://github.com/clinlx/CN_GreenLumaGUI)(原版加上前端，方便操作)
-   3. [gbe_fork](https://github.com/Detanup01/gbe_fork)
+   - [steamtool](https://www.steamtools.net) (闭源，国人大佬开发,功能强大)
+   - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?t=103709)(原版纯命令行,操作较难,闭源,外国论坛发布)
+   - [GreenLuma_CN](https://github.com/clinlx/CN_GreenLumaGUI)(原版加上前端，方便操作)
+   - [gbe_fork](https://github.com/Detanup01/gbe_fork)
    
 
 ## 二是对游戏文件本身进行修改
@@ -53,12 +53,12 @@ tags:
    2. 无法使用steam官方客户端的一些功能
 
 ### 典型代表:
-   1. [gbe_fork的steamclient模式](https://github.com/Detanup01/gbe_fork)
-   2. [steam-auto-crak](https://github.com/SteamAutoCracks/Steam-auto-crack)
+   - [gbe_fork的steamclient模式](https://github.com/Detanup01/gbe_fork)
+   - [steam-auto-crak](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
 ## 其他:
-  1. steamlan/gbe 通过模仿steam lan api,可以实现游戏在线/离线模式下局域网联机,而不需要走steam官方服务器
-  2. steamless 移除steam端的d加密(不会绕过游戏游玩验证,并且非steam的d加密无法破解，比如说黑猴,需要使用别人的d加密密钥才可以认证游玩)
+  - steamlan/gbe 通过模仿steam lan api,可以实现游戏在线/离线模式下局域网联机,而不需要走steam官方服务器
+  - (steamless)[https://github.com/atom0s/Steamless] 移除steam端的d加密(不会绕过游戏游玩验证,并且非steam的d加密无法破解，比如说黑猴,需要使用别人的d加密密钥才可以认证游玩)
 
 ## 总结:
    Steam假入库商家通常通过劫持steam根目录的hid.dll文件进行自定义操作,hook核心一般采用steamtool,加上不知道哪里搞来的清单depot key源,由于是黑箱代码,无法准确判断是否含有其他的木马病毒,来获取自己steam的一些信息,对账号造成隐性风险,所以不建议使用淘宝上的 steam假入库。
