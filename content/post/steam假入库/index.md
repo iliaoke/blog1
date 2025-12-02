@@ -35,13 +35,15 @@ tags:
      
 ### 弊端:
    1. 无法使用联机功能
-   2. 别人看不到你库中的游戏(无伤大雅~~,除非你想要通过玩游戏来证明自己的老资历,在某盒软件舆论战中占上风。~~)
-   3. 系统重装后，steam假入库游戏入库数据会消失~~(要玩的时候重新入一下库就行了，问题不大)~~
+   2. 别人看不到你库中的游戏(无伤大雅,除非你想要通过玩游戏来证明自己的老资历,在某盒软件舆论战中占上风)
+   3. 系统重装后，steam假入库游戏入库数据会消失(要玩的时候重新入一下库就行了，问题不大)
 
 ### 典型代表:
-   1. steamtool(闭源，国人大佬开发,功能强大)
-   2. GreenLuma(闭源,外国论坛发布)
-   3. gbe
+   1. [steamtool](https://www.steamtools.net) (闭源，国人大佬开发,功能强大)
+   2. [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?t=103709)(原版纯命令行,操作较难,闭源,外国论坛发布)
+   3. [GreenLuma_CN](https://github.com/clinlx/CN_GreenLumaGUI)(原版加上前端，方便操作)
+   3. [gbe_fork](https://github.com/Detanup01/gbe_fork)
+   
 
 ## 二是对游戏文件本身进行修改
    对游戏文件夹本身进行修改,内置一个模仿steam api行为的第三方轻量steam client,实现steam游戏脱离steam官方客户端运行,方便游戏在互联网上传播
@@ -51,7 +53,8 @@ tags:
    2. 无法使用steam官方客户端的一些功能
 
 ### 典型代表:
-   1. gbe的steamclient模式
+   1. [gbe_fork的steamclient模式](https://github.com/Detanup01/gbe_fork)
+   2. [steam-auto-crak](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
 ## 其他:
   1. steamlan/gbe 通过模仿steam lan api,可以实现游戏在线/离线模式下局域网联机,而不需要走steam官方服务器
