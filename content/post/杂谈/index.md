@@ -2,7 +2,7 @@
 title: 杂谈
 #description: Welcome to Hugo Theme Stack
 slug: talk
-date: 2025-01-02
+date: 2025-12-02
 #image: cover.jpg
 categories:
     - 技术
