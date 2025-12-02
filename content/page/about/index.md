@@ -1,6 +1,7 @@
 ---
 title: "关于"
 type: "posts"
+slug: about
 date: 2025-12-01
 menu:
     main:
