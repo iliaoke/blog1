@@ -21,17 +21,17 @@ icon = "brand-github"
 identifier = "email"
 weight = 2
 name = "Email"
-url = "mailto:3579145197@qq.com"
+url = "mailto:liaoke2007@gmail.com"
 
 [social.params]
 icon = "mail"
 
-[[social]]
-identifier = "twitter"
-weight = 3
-name = "Twitter"
-url = "https://x.com/liaoke321"
+#[[social]]
+#identifier = "twitter"
+#weight = 3
+#name = "Twitter"
+#url = "https://x.com/liaoke321"
 
-[social.params]
-icon = "brand-twitter"
+#[social.params]
+#icon = "brand-twitter"
 
