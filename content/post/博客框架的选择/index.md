@@ -1,6 +1,7 @@
 ---
 title: 博客框架的选择
-#description: Welcome to Hugo Theme Stack
+description: 博客框架的选择指南
+keywords: ["博客", "blog", "技术选型"]
 slug: blog choose
 date: 2025-12-02
 #image: cover.jpg
