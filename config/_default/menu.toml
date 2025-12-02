@@ -9,7 +9,8 @@
 
 [[social]]
 identifier = "github"
-name = "1-GitHub"
+weight = 1
+name = "GitHub"
 url = "https://github.com/iliaoke"
 
 [social.params]
@@ -18,7 +19,8 @@ icon = "brand-github"
 
 [[social]]
 identifier = "email"
-name = "2-Email"
+weight = 2
+name = "Email"
 url = "mailto:3579145197@qq.com"
 
 [social.params]
@@ -26,7 +28,8 @@ icon = "mail"
 
 [[social]]
 identifier = "twitter"
-name = "3-Twitter"
+weight = 3
+name = "Twitter"
 url = "https://x.com/liaoke321"
 
 [social.params]
