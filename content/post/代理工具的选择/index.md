@@ -110,7 +110,7 @@ V2Ray 的增强版核心，由 XTLS 项目维护。
 - 配置复杂  
 - GUI少
 
-## 各操作系统主流GUI代理客户端
+## 各操作系统主流GUI代理客户端(整体按照知名度排序)
 
 ### Windows
 - [v2rayN](https://github.com/2dust/v2rayN) — 支持 Xray / sing-box / clash/others 内核,支持Windows/Linux/macOS
