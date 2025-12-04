@@ -26,6 +26,15 @@ url = "mailto:liaoke2007@gmail.com"
 [social.params]
 icon = "mail"
 
+[[social]]
+identifier = "rss"
+weight = 3
+name = "Rss"
+url = "https://blog.liaoke.xyz/index.xml"
+
+[social.params]
+icon = "rss"
+
 #[[social]]
 #identifier = "twitter"
 #weight = 3
